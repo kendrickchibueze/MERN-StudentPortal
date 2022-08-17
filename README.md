@@ -1,7 +1,11 @@
 
 # School Management System
 A Full stack MERN website for school management  where admin can create students, delete student details in the student portal.
+
+
 !["our app"](https://raw.githubusercontent.com/kendrickchibueze/MERN-StudentPortal/3af24d339f5f0b5c4c063ed5927b953593b3d317/Screenshot%20(172).png)
+
+
 
 
 <small>This project will be completed and hosted very soon on request! </small>
